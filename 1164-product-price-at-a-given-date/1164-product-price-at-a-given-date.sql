@@ -1,6 +1,6 @@
 SELECT 
     p.product_id, 
-    COALESCE(lp.new_price, 10) AS price
+    IFNULL(lp.new_price, 10) AS price
 FROM 
     (SELECT DISTINCT product_id FROM products) p
 LEFT JOIN 
