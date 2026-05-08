@@ -31,6 +31,7 @@ problem solving
 | [1292-immediate-food-delivery-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Mo-rmdone/problem_solving/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Mo-rmdone/problem_solving/tree/master/1338-queries-quality-and-percentage) |
+| [1341-movie-rating](https://github.com/Mo-rmdone/problem_solving/tree/master/1341-movie-rating) |
 | [1390-average-selling-price](https://github.com/Mo-rmdone/problem_solving/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Mo-rmdone/problem_solving/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Mo-rmdone/problem_solving/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
