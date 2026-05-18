@@ -10,6 +10,7 @@ problem solving
 | [0176-second-highest-salary](https://github.com/Mo-rmdone/problem_solving/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Mo-rmdone/problem_solving/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Mo-rmdone/problem_solving/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Mo-rmdone/problem_solving/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Mo-rmdone/problem_solving/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mo-rmdone/problem_solving/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Mo-rmdone/problem_solving/tree/master/0577-employee-bonus) |
