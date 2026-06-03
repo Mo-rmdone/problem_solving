@@ -60,6 +60,7 @@ problem solving
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0027-remove-element) |
 | [1768-merge-strings-alternately](https://github.com/Mo-rmdone/problem_solving/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -77,6 +78,7 @@ problem solving
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0027-remove-element) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
 ## Design
 |  |
