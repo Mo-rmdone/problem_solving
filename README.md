@@ -80,6 +80,7 @@ problem solving
 | ------- |
 | [0027-remove-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0027-remove-element) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |
@@ -88,4 +89,5 @@ problem solving
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
