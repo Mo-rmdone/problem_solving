@@ -72,6 +72,7 @@ problem solving
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Mo-rmdone/problem_solving/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ problem solving
 | ------- |
 | [0027-remove-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0027-remove-element) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
