@@ -66,12 +66,14 @@ problem solving
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Mo-rmdone/problem_solving/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/Mo-rmdone/problem_solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mo-rmdone/problem_solving/tree/master/0242-valid-anagram) |
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
 | [1768-merge-strings-alternately](https://github.com/Mo-rmdone/problem_solving/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Mo-rmdone/problem_solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mo-rmdone/problem_solving/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
