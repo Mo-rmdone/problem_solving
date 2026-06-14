@@ -89,6 +89,7 @@ problem solving
 | [0119-pascals-triangle-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/0119-pascals-triangle-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/Mo-rmdone/problem_solving/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
 ## Design
@@ -117,4 +118,8 @@ problem solving
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mo-rmdone/problem_solving/tree/master/0102-binary-tree-level-order-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Mo-rmdone/problem_solving/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
