@@ -73,6 +73,7 @@ problem solving
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Mo-rmdone/problem_solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mo-rmdone/problem_solving/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -80,6 +81,7 @@ problem solving
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mo-rmdone/problem_solving/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -87,6 +89,7 @@ problem solving
 | [0027-remove-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/Mo-rmdone/problem_solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Mo-rmdone/problem_solving/tree/master/0605-can-place-flowers) |
@@ -122,4 +125,12 @@ problem solving
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Mo-rmdone/problem_solving/tree/master/0605-can-place-flowers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
