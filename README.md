@@ -77,6 +77,7 @@ problem solving
 | [0205-isomorphic-strings](https://github.com/Mo-rmdone/problem_solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mo-rmdone/problem_solving/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
 ## Sorting
 |  |
@@ -92,6 +93,7 @@ problem solving
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Mo-rmdone/problem_solving/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
@@ -133,4 +135,12 @@ problem solving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
