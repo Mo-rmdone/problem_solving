@@ -99,6 +99,7 @@ problem solving
 | [0605-can-place-flowers](https://github.com/Mo-rmdone/problem_solving/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mo-rmdone/problem_solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Design
 |  |
 | ------- |
