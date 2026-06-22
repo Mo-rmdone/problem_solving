@@ -79,6 +79,7 @@ problem solving
 | [0205-isomorphic-strings](https://github.com/Mo-rmdone/problem_solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mo-rmdone/problem_solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mo-rmdone/problem_solving/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
@@ -88,6 +89,7 @@ problem solving
 | ------- |
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mo-rmdone/problem_solving/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +98,7 @@ problem solving
 | [0119-pascals-triangle-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Mo-rmdone/problem_solving/tree/master/0605-can-place-flowers) |
@@ -136,10 +139,12 @@ problem solving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Mo-rmdone/problem_solving/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
@@ -149,4 +154,16 @@ problem solving
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
