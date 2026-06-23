@@ -101,6 +101,7 @@ problem solving
 | [0118-pascals-triangle](https://github.com/Mo-rmdone/problem_solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Mo-rmdone/problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -116,6 +117,7 @@ problem solving
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Mo-rmdone/problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
