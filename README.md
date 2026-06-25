@@ -61,6 +61,7 @@ problem solving
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Mo-rmdone/problem_solving/tree/master/0075-sort-colors) |
 | [1768-merge-strings-alternately](https://github.com/Mo-rmdone/problem_solving/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -90,6 +91,7 @@ problem solving
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mo-rmdone/problem_solving/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Mo-rmdone/problem_solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mo-rmdone/problem_solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
@@ -99,6 +101,7 @@ problem solving
 | ------- |
 | [0027-remove-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Mo-rmdone/problem_solving/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Mo-rmdone/problem_solving/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mo-rmdone/problem_solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
