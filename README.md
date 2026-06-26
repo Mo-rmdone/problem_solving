@@ -78,6 +78,7 @@ problem solving
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mo-rmdone/problem_solving/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Mo-rmdone/problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Mo-rmdone/problem_solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mo-rmdone/problem_solving/tree/master/0242-valid-anagram) |
@@ -105,6 +106,7 @@ problem solving
 | [0075-sort-colors](https://github.com/Mo-rmdone/problem_solving/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mo-rmdone/problem_solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Mo-rmdone/problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Mo-rmdone/problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
@@ -197,4 +199,8 @@ problem solving
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mo-rmdone/problem_solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
