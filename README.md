@@ -89,6 +89,7 @@ problem solving
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Mo-rmdone/problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +120,7 @@ problem solving
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mo-rmdone/problem_solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mo-rmdone/problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -131,6 +133,7 @@ problem solving
 | [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +163,7 @@ problem solving
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -195,10 +199,12 @@ problem solving
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
