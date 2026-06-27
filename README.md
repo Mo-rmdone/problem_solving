@@ -89,6 +89,7 @@ problem solving
 | [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Mo-rmdone/problem_solving/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mo-rmdone/problem_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
@@ -121,6 +122,7 @@ problem solving
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mo-rmdone/problem_solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mo-rmdone/problem_solving/tree/master/1833-maximum-ice-cream-bars) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mo-rmdone/problem_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Design
@@ -215,4 +217,8 @@ problem solving
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mo-rmdone/problem_solving/tree/master/0036-valid-sudoku) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mo-rmdone/problem_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
