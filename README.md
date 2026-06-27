@@ -77,6 +77,7 @@ problem solving
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mo-rmdone/problem_solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mo-rmdone/problem_solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mo-rmdone/problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
@@ -103,6 +104,7 @@ problem solving
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Mo-rmdone/problem_solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mo-rmdone/problem_solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mo-rmdone/problem_solving/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mo-rmdone/problem_solving/tree/master/0118-pascals-triangle) |
@@ -209,4 +211,8 @@ problem solving
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mo-rmdone/problem_solving/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Mo-rmdone/problem_solving/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
