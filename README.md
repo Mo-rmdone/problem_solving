@@ -121,6 +121,7 @@ problem solving
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Mo-rmdone/problem_solving/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/Mo-rmdone/problem_solving/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mo-rmdone/problem_solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -184,6 +185,7 @@ problem solving
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Mo-rmdone/problem_solving/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -226,4 +228,8 @@ problem solving
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mo-rmdone/problem_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Mo-rmdone/problem_solving/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
