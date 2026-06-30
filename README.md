@@ -135,6 +135,7 @@ problem solving
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mo-rmdone/problem_solving/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -186,6 +187,7 @@ problem solving
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mo-rmdone/problem_solving/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Mo-rmdone/problem_solving/tree/master/0682-baseball-game) |
 ## Monotonic Stack
@@ -234,4 +236,8 @@ problem solving
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Mo-rmdone/problem_solving/tree/master/0682-baseball-game) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mo-rmdone/problem_solving/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
