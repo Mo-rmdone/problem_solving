@@ -132,6 +132,7 @@ problem solving
 | [1833-maximum-ice-cream-bars](https://github.com/Mo-rmdone/problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mo-rmdone/problem_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mo-rmdone/problem_solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mo-rmdone/problem_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -163,6 +164,7 @@ problem solving
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mo-rmdone/problem_solving/tree/master/0102-binary-tree-level-order-traversal) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -202,6 +204,7 @@ problem solving
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -228,10 +231,12 @@ problem solving
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mo-rmdone/problem_solving/tree/master/0128-longest-consecutive-sequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mo-rmdone/problem_solving/tree/master/0036-valid-sudoku) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -252,4 +257,8 @@ problem solving
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mo-rmdone/problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
