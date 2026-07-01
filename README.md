@@ -117,6 +117,7 @@ problem solving
 | [0118-pascals-triangle](https://github.com/Mo-rmdone/problem_solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mo-rmdone/problem_solving/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mo-rmdone/problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Mo-rmdone/problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
@@ -189,6 +190,7 @@ problem solving
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mo-rmdone/problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Mo-rmdone/problem_solving/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Mo-rmdone/problem_solving/tree/master/0682-baseball-game) |
@@ -246,4 +248,8 @@ problem solving
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mo-rmdone/problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mo-rmdone/problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
