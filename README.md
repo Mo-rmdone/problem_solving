@@ -167,6 +167,7 @@ problem solving
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mo-rmdone/problem_solving/tree/master/0102-binary-tree-level-order-traversal) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mo-rmdone/problem_solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
@@ -237,6 +238,7 @@ problem solving
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mo-rmdone/problem_solving/tree/master/0128-longest-consecutive-sequence) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mo-rmdone/problem_solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -272,6 +274,7 @@ problem solving
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mo-rmdone/problem_solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Mo-rmdone/problem_solving/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -283,4 +286,8 @@ problem solving
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Mo-rmdone/problem_solving/tree/master/3620-network-recovery-pathways) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mo-rmdone/problem_solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
