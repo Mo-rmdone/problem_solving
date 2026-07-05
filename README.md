@@ -129,6 +129,7 @@ problem solving
 | [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mo-rmdone/problem_solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mo-rmdone/problem_solving/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mo-rmdone/problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mo-rmdone/problem_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mo-rmdone/problem_solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -157,6 +158,7 @@ problem solving
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mo-rmdone/problem_solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/0119-pascals-triangle-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mo-rmdone/problem_solving/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Mo-rmdone/problem_solving/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Tree
@@ -244,6 +246,7 @@ problem solving
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mo-rmdone/problem_solving/tree/master/0036-valid-sudoku) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mo-rmdone/problem_solving/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
