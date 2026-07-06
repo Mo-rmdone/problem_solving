@@ -105,6 +105,7 @@ problem solving
 | [0169-majority-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mo-rmdone/problem_solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
+| [1288-remove-covered-intervals](https://github.com/Mo-rmdone/problem_solving/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mo-rmdone/problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mo-rmdone/problem_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Array
@@ -128,6 +129,7 @@ problem solving
 | [0682-baseball-game](https://github.com/Mo-rmdone/problem_solving/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
+| [1288-remove-covered-intervals](https://github.com/Mo-rmdone/problem_solving/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mo-rmdone/problem_solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mo-rmdone/problem_solving/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mo-rmdone/problem_solving/tree/master/1833-maximum-ice-cream-bars) |
