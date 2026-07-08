@@ -271,6 +271,7 @@ problem solving
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mo-rmdone/problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
