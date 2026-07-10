@@ -64,6 +64,7 @@ problem solving
 | [0075-sort-colors](https://github.com/Mo-rmdone/problem_solving/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mo-rmdone/problem_solving/tree/master/0125-valid-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Mo-rmdone/problem_solving/tree/master/1768-merge-strings-alternately) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ problem solving
 | [1288-remove-covered-intervals](https://github.com/Mo-rmdone/problem_solving/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mo-rmdone/problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mo-rmdone/problem_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
 | ------- |
@@ -141,6 +143,7 @@ problem solving
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mo-rmdone/problem_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Mo-rmdone/problem_solving/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -165,6 +168,7 @@ problem solving
 | [0118-pascals-triangle](https://github.com/Mo-rmdone/problem_solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/0119-pascals-triangle-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mo-rmdone/problem_solving/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Mo-rmdone/problem_solving/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Tree
@@ -188,6 +192,7 @@ problem solving
 | [0605-can-place-flowers](https://github.com/Mo-rmdone/problem_solving/tree/master/0605-can-place-flowers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mo-rmdone/problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mo-rmdone/problem_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -283,6 +288,7 @@ problem solving
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Mo-rmdone/problem_solving/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -290,6 +296,7 @@ problem solving
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mo-rmdone/problem_solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Mo-rmdone/problem_solving/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -304,4 +311,8 @@ problem solving
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mo-rmdone/problem_solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
