@@ -95,6 +95,7 @@ problem solving
 | [0496-next-greater-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0929-unique-email-addresses](https://github.com/Mo-rmdone/problem_solving/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Mo-rmdone/problem_solving/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mo-rmdone/problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mo-rmdone/problem_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -109,6 +110,7 @@ problem solving
 | [0242-valid-anagram](https://github.com/Mo-rmdone/problem_solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mo-rmdone/problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/Mo-rmdone/problem_solving/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mo-rmdone/problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mo-rmdone/problem_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -136,6 +138,7 @@ problem solving
 | [1288-remove-covered-intervals](https://github.com/Mo-rmdone/problem_solving/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mo-rmdone/problem_solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mo-rmdone/problem_solving/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mo-rmdone/problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mo-rmdone/problem_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mo-rmdone/problem_solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
