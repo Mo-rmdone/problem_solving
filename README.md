@@ -83,6 +83,7 @@ problem solving
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mo-rmdone/problem_solving/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Mo-rmdone/problem_solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mo-rmdone/problem_solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mo-rmdone/problem_solving/tree/master/0128-longest-consecutive-sequence) |
@@ -117,6 +118,7 @@ problem solving
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mo-rmdone/problem_solving/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Mo-rmdone/problem_solving/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Mo-rmdone/problem_solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mo-rmdone/problem_solving/tree/master/0049-group-anagrams) |
