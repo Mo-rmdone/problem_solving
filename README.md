@@ -141,6 +141,7 @@ problem solving
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mo-rmdone/problem_solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mo-rmdone/problem_solving/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/1331-rank-transform-of-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mo-rmdone/problem_solving/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mo-rmdone/problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mo-rmdone/problem_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mo-rmdone/problem_solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -163,6 +164,7 @@ problem solving
 | [0238-product-of-array-except-self](https://github.com/Mo-rmdone/problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mo-rmdone/problem_solving/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
