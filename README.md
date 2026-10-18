@@ -98,6 +98,7 @@ problem solving
 | [1189-maximum-number-of-balloons](https://github.com/Mo-rmdone/problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Mo-rmdone/problem_solving/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mo-rmdone/problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2848-points-that-intersect-with-cars](https://github.com/Mo-rmdone/problem_solving/tree/master/2848-points-that-intersect-with-cars) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mo-rmdone/problem_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -146,6 +147,7 @@ problem solving
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mo-rmdone/problem_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mo-rmdone/problem_solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2848-points-that-intersect-with-cars](https://github.com/Mo-rmdone/problem_solving/tree/master/2848-points-that-intersect-with-cars) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mo-rmdone/problem_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mo-rmdone/problem_solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -165,6 +167,7 @@ problem solving
 | [0303-range-sum-query-immutable](https://github.com/Mo-rmdone/problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Mo-rmdone/problem_solving/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mo-rmdone/problem_solving/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [2848-points-that-intersect-with-cars](https://github.com/Mo-rmdone/problem_solving/tree/master/2848-points-that-intersect-with-cars) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mo-rmdone/problem_solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mo-rmdone/problem_solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
